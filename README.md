@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Amirreza%20Mansourabadi&textBg=false&desc=AWS%20Cloud%20•%20Security%20•%20IT%20Infrastructure)
 
 # Hi, I'm Amirreza Mansourabadi 👋
--☁️ AWS Certified Solutions Architect – Associate 
--🔐 CompTIA Security+ 
--💻 Cloud | Cybersecurity | IT Infrastructure 
--📍 Based in the United States
+☁️ AWS Certified Solutions Architect – Associate  
+🔐 CompTIA Security+  
+💻 Cloud | Cybersecurity | IT Infrastructure  
+📍 Based in the United States
 
 I build secure and scalable cloud infrastructure using AWS. My focus is on cloud security, automation, and designing reliable architectures.
 
