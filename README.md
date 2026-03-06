@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Amirreza%20Mansourabadi&textBg=false&desc=AWS%20Cloud%20•%20Security%20•%20IT%20Infrastructure
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Amirreza%20Mansourabadi&textBg=false&desc=AWS%20Cloud%20•%20Security%20•%20IT%20Infrastructure)
 
 # Hi, I'm Amirreza Mansourabadi 👋
 
@@ -69,7 +69,6 @@ https://github.com/amirreza-mansourabadi/EC2-S3-Integration
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/Linux-Administration-yellow?logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-Administration-blue?logo=windows)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
 ![Cybersecurity](https://img.shields.io/badge/Security-Cybersecurity-red)
 
 ---
