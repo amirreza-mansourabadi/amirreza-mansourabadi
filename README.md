@@ -1,27 +1,32 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Amirreza%20Mansourabadi&textBg=false&desc=AWS%20Cloud%20•%20Security%20•%20IT%20Infrastructure)
 
 # Hi, I'm Amirreza Mansourabadi 👋
-☁️ AWS Certified Solutions Architect – Associate  
+
+☁️ AWS Solutions Architect – Associate  
 🔐 CompTIA Security+  
 💻 Cloud | Cybersecurity | IT Infrastructure  
-📍 Based in the United States
+📍 USA  
 
-I build secure and scalable cloud infrastructure using AWS. My focus is on cloud security, automation, and designing reliable architectures.
+---
+
+## 🌟 Certifications
+[![AWS Cloud Practitioner](https://images.credly.com/badges/YOUR_CLOUD_PRACTITIONER_BADGE_ID/image.png)](https://www.credly.com/users/amirreza-mansourabadi)  
+[![AWS Solutions Architect – Associate](https://images.credly.com/badges/YOUR_SOLUTIONS_ARCHITECT_BADGE_ID/image.png)](https://www.credly.com/users/amirreza-mansourabadi)  
+[![CompTIA Security+](https://images.credly.com/badges/YOUR_SECURITY_PLUS_BADGE_ID/image.png)](https://www.credly.com/users/amirreza-mansourabadi)  
 
 ---
 
 ## 🚀 Featured Projects
-
 ### Secure Static Website with AWS WAF & CloudFront
-Built a secure static website hosted on Amazon S3 and delivered through CloudFront. Implemented AWS WAF with managed rule sets to block common web attacks such as SQL injection and XSS. Configured HTTPS and global content delivery for performance and security.  
+Built a secure static website hosted on Amazon S3 and delivered through CloudFront. Implemented AWS WAF with managed rule sets to block SQL injection and XSS. Configured HTTPS and global content delivery for performance and security.  
 [🔗 Visit Project](https://github.com/amirreza-mansourabadi/Project3-WAF-Secure-Static-Site)
 
 ### AWS Security Project – S3 Least Privilege IAM
-Designed and implemented least-privilege IAM policies for secure Amazon S3 access. Enabled AWS CloudTrail logging for auditing and monitoring API activity. Demonstrates secure access control and AWS security best practices.  
+Designed and implemented least-privilege IAM policies for secure Amazon S3 access. Enabled CloudTrail logging for auditing and monitoring API activity.  
 [🔗 Visit Project](https://github.com/amirreza-mansourabadi/AWS-S3-Least-Privilege-Project)
 
 ### AWS EC2 + S3 Integration Project
-Deployed an EC2 instance with an IAM role that securely accesses an S3 bucket without storing credentials. Demonstrates secure service integration and identity-based access management in AWS.  
+Deployed an EC2 instance with an IAM role that securely accesses an S3 bucket without storing credentials.  
 [🔗 Visit Project](https://github.com/amirreza-mansourabadi/AWS-EC2-S3-Project)
 
 ---
@@ -38,22 +43,5 @@ Deployed an EC2 instance with an IAM role that securely accesses an S3 bucket wi
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza-mansourabadi&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-mansourabadi&layout=compact&theme=dark)
-
----
-
-## 📌 Pinned Repositories
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 🚀 **AWS-S3-Least-Privilege-Project** | Secure AWS S3 project demonstrating least-privilege IAM access and CloudTrail audit logging | [🔗 View](https://github.com/amirreza-mansourabadi/AWS-S3-Least-Privilege-Project) |
-| 🖥 **AWS-EC2-S3-Project** | EC2 instance with IAM role accessing S3 bucket (hands-on AWS integration project) | [🔗 View](https://github.com/amirreza-mansourabadi/AWS-EC2-S3-Project) |
-| 🌐 **Project3-WAF-Secure-Static-Site** | Secure static site with AWS WAF and CloudFront (HTML, HTTPS, global content delivery) | [🔗 View](https://github.com/amirreza-mansourabadi/Project3-WAF-Secure-Static-Site) |
-| 📄 **amirreza-mansourabadi** | GitHub profile README showcasing skills, certifications, and featured projects | [🔗 View](https://github.com/amirreza-mansourabadi/amirreza-mansourabadi) |
-
----
-
 ## 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/amirreza-mansourabadi) | [GitHub](https://github.com/amirreza-mansourabadi)
+[LinkedIn](https://www.linkedin.com/in/amirreza-mansourabadi) | [GitHub](https://github.com/amirreza-mansourabadi) | [Credly](https://www.credly.com/users/amirreza-mansourabadi)
