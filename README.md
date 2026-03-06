@@ -10,9 +10,12 @@
 ---
 
 ## 🌟 Certifications
-[![AWS Cloud Practitioner](https://images.credly.com/badges/YOUR_CLOUD_PRACTITIONER_BADGE_ID/image.png)](https://www.credly.com/users/amirreza-mansourabadi)  
-[![AWS Solutions Architect – Associate](https://images.credly.com/badges/YOUR_SOLUTIONS_ARCHITECT_BADGE_ID/image.png)](https://www.credly.com/users/amirreza-mansourabadi)  
-[![CompTIA Security+](https://images.credly.com/badges/YOUR_SECURITY_PLUS_BADGE_ID/image.png)](https://www.credly.com/users/amirreza-mansourabadi)  
+
+[![AWS Cloud Practitioner](https://images.credly.com/badges/YOUR_CLOUD_PRACTITIONER_BADGE_ID/image.png)](https://www.credly.com/badges/YOUR_CLOUD_PRACTITIONER_BADGE_ID/public_url)
+
+[![AWS Solutions Architect – Associate](https://images.credly.com/badges/YOUR_SOLUTIONS_ARCHITECT_BADGE_ID/image.png)](https://www.credly.com/badges/YOUR_SOLUTIONS_ARCHITECT_BADGE_ID/public_url)
+
+[![CompTIA Security+](https://images.credly.com/badges/YOUR_SECURITY_PLUS_BADGE_ID/image.png)](https://www.credly.com/badges/YOUR_SECURITY_PLUS_BADGE_ID/public_url)
 
 ---
 
