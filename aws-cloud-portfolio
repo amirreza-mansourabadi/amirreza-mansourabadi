@@ -1,0 +1,40 @@
+# Hi, I'm Amirreza Mansourabadi 👋
+**AWS Certified Cloud & IT Professional | Solutions Architect – Associate | Security+ | Cloud & IT Support**
+
+---
+
+## 🔹 About Me
+Hands-on experience building and securing AWS cloud infrastructure with EC2, S3, IAM, CloudFront, and WAF.  
+Practical knowledge of cloud security best practices, least-privilege access, and identity management.  
+Background in IT support, system deployment, and troubleshooting.  
+Fluent in **English** and **Farsi**.
+
+---
+
+## 🔹 Skills
+- **Cloud & AWS:** EC2, S3, IAM, CloudFront, WAF, Lambda, CloudFormation, Elastic Beanstalk  
+- **Security:** Cloud security monitoring, least-privilege access, Cybersecurity fundamentals (Security+)  
+- **IT & Systems:** Active Directory administration, Windows/Linux administration, troubleshooting  
+- **Other:** Cloud Architecture, Solution Design, Technical Support  
+
+---
+
+## 🔹 Featured Projects
+### [Secure Static Website with AWS WAF & CloudFront](https://github.com/amirreza-mansourabadi/Secure-Static-Website-WAF-CloudFront)
+- Built a static website on S3  
+- Protected it using CloudFront and AWS WAF to prevent common web attacks  
+
+### [AWS Security Project – S3 Least Privilege IAM](https://github.com/amirreza-mansourabadi/S3-Least-Privilege-IAM)
+- Implemented least-privilege IAM policies for secure S3 access  
+- Monitored access with CloudTrail logging for audit purposes  
+
+### [AWS EC2 + S3 Integration Project](https://github.com/amirreza-mansourabadi/EC2-S3-Integration)
+- Deployed EC2 instance with IAM role access to S3 bucket without embedding credentials  
+- Demonstrates secure cloud integration and access control  
+
+---
+
+## 🔹 Certifications
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified Cloud Practitioner  
+- CompTIA Security+
