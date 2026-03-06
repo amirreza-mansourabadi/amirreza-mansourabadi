@@ -11,11 +11,17 @@
 
 ## 🌟 Certifications
 
-[![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/98b97664-ea65-4d67-9ae6-078eb587e38d)
+<a href="https://www.credly.com/badges/98b97664-ea65-4d67-9ae6-078eb587e38d" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="100"/>
+</a>
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/113307f1-7ebf-401a-954e-90bbcdd25720)
+<a href="https://www.credly.com/badges/113307f1-7ebf-401a-954e-90bbcdd25720" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect – Associate" width="100"/>
+</a>
 
-[![CompTIA Security+](https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/1b16e11e-fc50-4278-9c1d-0a28c38de029)
+<a href="https://www.credly.com/badges/1b16e11e-fc50-4278-9c1d-0a28c38de029" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="100"/>
+</a>
 
 ---
 
